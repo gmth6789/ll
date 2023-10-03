@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "nuxt": "^2.0.0",
-    "vant": "^2.4.0"
+    "vant": "^4.7.0"
   },
   "devDependencies": {
     "babel-plugin-import": "^1.13.0",
